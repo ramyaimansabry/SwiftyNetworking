@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyNetworking (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyNetworking: 568c1022ac9052e1073f55af0ae307da672ebe27
+
+PODFILE CHECKSUM: 96822650f87214ce6b9e3847b9cc172efe6f63f2
+
+COCOAPODS: 1.6.0

@@ -1,0 +1,22 @@
+{
+  "name": "SwiftyNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftyNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ramysabry22/SwiftyNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ramysabry22": "ramysabry1996@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ramysabry22/SwiftyNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftyNetworking/Classes/**/*"
+}

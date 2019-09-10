@@ -1,0 +1,6 @@
+framework module SwiftyNetworking {
+  umbrella header "SwiftyNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
