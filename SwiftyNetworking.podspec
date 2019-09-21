@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   
   
   s.name             = 'SwiftyNetworking'
-  s.version          = '0.3.0'
+  s.version          = '0.4.0'
   s.summary          = 'HTTP Networking library and image downloader with caching written in swift'
 
   s.homepage         = 'https://github.com/ramysabry22/SwiftyNetworking'
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
    
   s.ios.deployment_target = '11.0'
-  s.swift_version = '4.2'
+  s.swift_version = '5.0'
   s.source_files = 'Classes/**/*.swift'
    
 
