@@ -4,6 +4,8 @@ import Foundation
 
 extension SwiftyNetworking {
     
+    //MARK:- String Requests
+    /**************************************************************************/
     
     ///   Returns string response from HTTP request
     /// - parameter URL: Request URL
@@ -31,6 +33,13 @@ extension SwiftyNetworking {
     
     
     
+    
+    
+    
+    
+    
+    //MARK:- Image Requests
+    /**************************************************************************/
     
     ///   Upload image as multipart form data
     /// - parameter Images: Array of Media model
@@ -60,6 +69,12 @@ extension SwiftyNetworking {
     }
     
     
+    
+    
+    
+    
+    //MARK:- Reachtability Requests
+    /**************************************************************************/
     
     /// func returns if connected to network service or not -> as Bool value
     public class func isConnectedToNetwork() -> Bool {
