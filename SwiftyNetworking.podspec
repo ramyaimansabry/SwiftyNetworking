@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   
   
   s.name             = 'SwiftyNetworking'
-  s.version          = '0.4.0'
+  s.version          = '0.5.0'
   s.summary          = 'HTTP Networking library and image downloader with caching written in swift'
 
   s.homepage         = 'https://github.com/ramysabry22/SwiftyNetworking'

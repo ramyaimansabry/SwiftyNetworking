@@ -9,6 +9,7 @@ public class SwiftyNetworking: NSObject {
         super.init()
     }
     
+    
     //MARK:- One Model Requests
     /**************************************************************************/
     
